@@ -7,9 +7,9 @@
 - Email: damienmueller@gmail.com
 - Phone: +61 421 277 189
 - LinkedIn: https://au.linkedin.com/in/damien-mueller-a53b8a63
-- Rate: from A$600/day (AUD, plus GST where applicable)
+- Rate: from A$600/day (AUD)
 - Availability: immediately, remote, any time zone
 
 Services: AI agent setup and operations; voice AI reception and outbound calling; workflow automation; fractional COO and operations.
 
-The practice site currently uses the working name Broadwater AI Co.
+The practice site is Broadwater AI.
